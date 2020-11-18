@@ -1,0 +1,13 @@
+C:\Users\nilma\Desktop\Funcao-while\obj\Debug\netcoreapp3.1\Funcao-while.csprojAssemblyReference.cache
+C:\Users\nilma\Desktop\Funcao-while\obj\Debug\netcoreapp3.1\Funcao-while.AssemblyInfoInputs.cache
+C:\Users\nilma\Desktop\Funcao-while\obj\Debug\netcoreapp3.1\Funcao-while.AssemblyInfo.cs
+C:\Users\nilma\Desktop\Funcao-while\obj\Debug\netcoreapp3.1\Funcao-while.csproj.CoreCompileInputs.cache
+C:\Users\nilma\Desktop\Funcao-while\bin\Debug\netcoreapp3.1\Funcao-while.exe
+C:\Users\nilma\Desktop\Funcao-while\bin\Debug\netcoreapp3.1\Funcao-while.deps.json
+C:\Users\nilma\Desktop\Funcao-while\bin\Debug\netcoreapp3.1\Funcao-while.runtimeconfig.json
+C:\Users\nilma\Desktop\Funcao-while\bin\Debug\netcoreapp3.1\Funcao-while.runtimeconfig.dev.json
+C:\Users\nilma\Desktop\Funcao-while\bin\Debug\netcoreapp3.1\Funcao-while.dll
+C:\Users\nilma\Desktop\Funcao-while\bin\Debug\netcoreapp3.1\Funcao-while.pdb
+C:\Users\nilma\Desktop\Funcao-while\obj\Debug\netcoreapp3.1\Funcao-while.dll
+C:\Users\nilma\Desktop\Funcao-while\obj\Debug\netcoreapp3.1\Funcao-while.pdb
+C:\Users\nilma\Desktop\Funcao-while\obj\Debug\netcoreapp3.1\Funcao-while.genruntimeconfig.cache
